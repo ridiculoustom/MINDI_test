@@ -28,26 +28,23 @@ Ship it
 
 ## Related Documentation
 
-* [ANxxxx - AVR128DB48 Low-BOM Microphone Interface Using the Analog Signal Conditioning (OPAMP) Peripheral](https://microchip.com/DSxxxxxxxxxx) <!--fill in DS number once it has been assigned-->
-* [AVR128DB48 device page](https://www.microchip.com/wwwproducts/en/AVR128DB48)
+* [ANxxxx - ](https://microchip.com/DSxxxxxxxxxx) <!--fill in DS number once it has been assigned-->
+* [AVR device page](https://www.microchip.com/wwwproducts/en/AVR)
 
 ## Software Used
 
 * [Atmel Studio](https://www.microchip.com/mplab/avr-support/atmel-studio-7) 7.0.2397 or later
-* Atmel Studio AVR-DB_DFP version 1.0.21 or later <!-- Not public DFP-->
+* Atmel Studio AVR-xx_DFP version 1.0.21 or later <!-- Not public DFP-->
 ## Hardware Used
 
-* [AVR128DB48 Curiosity Nano](https://www.microchip.com/wwwproducts/en/AVR128DB48) <!-- Not the correct link, fix when curiosity nano page exists-->
-* Electret microphone
-* One 2.2kΩ resistor
-* One 1µF capacitor
+* [AVR128Dxx Curiosity Nano](https://www.microchip.com/wwwproducts/en/AVR128Dxx) <!-- Not the correct link, fix when curiosity nano page exists-->
 
 ## Setup
 
 * Connect the hardware together as seen in the schematic of the [application note](https://microchip.com/DSxxxxxxxxxx) <!--fill in DS number once it has been assigned-->
 
 ## Operation
-* Connect the AVR128DB48 Curiosity Nano to a computer using a USB cable
+* Connect the AVR128Dx Curiosity Nano to a computer using a USB cable
 * Download the zip file or clone the example to get the source code
 * Open the .atsln file with Atmel Studio
 * Press *Start Without Debugging* (CTRL+ALT+F5) to run the application
