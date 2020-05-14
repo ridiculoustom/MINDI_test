@@ -1,7 +1,7 @@
 <!-- Please do not change this html logo with link -->
 <a href="https://www.microchip.com" rel="nofollow"><img src="images/microchip.png" alt="MCHP" width="300"/></a>
 
-# Getting started with Mindi(R) simulation and the AVR DB
+# Getting started with Mindi(R) simulation and the AVR Dx
 This is how you get going in n easy steps
 ## Download Mindi
 Download and install the applicaiton from here:
