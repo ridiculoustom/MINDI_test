@@ -8,7 +8,7 @@ Mindi needs a model for the part. Find it.
 
 ## Schematic 
 Download an example schematic 
-<a id="raw-url" href="https://github.com/ridiculoustom/TB3213_Getting_Started_with_RTC/blob/master/RTC_Overflow_Interrupt/RTC_Overflow_Interrupt.cproj">here</a>
+<a id="raw-url" href="https://github.com/ridiculoustom/MINDI_test/blob/master/Mindi_Simulation/Voltage_Follower.wxsch">here</a>
 
 ## Tweak
 Tweak the schematic
