@@ -10,18 +10,9 @@ Download and install the applicaiton from here:
 Mindi needs a model for the part. Find it.
 
 ## Schematic 
-Download an example schematic 
-<a id="raw-url" href="assets/Voltage_Follower.wxsch">here</a>
 
 [Download Release Schematic](https://github.com/ridiculoustom/MINDI_test/releases/download/v.0.1/Non_Inverting_PGA.wxsch "Mindi Non Inverting PGA")
 
-<a href="assets/Voltage_Follower.wxsch" download="Voltage_Follower.wxsch">or maybe here</a>
-
-<a href="assets/Voltage_Follower.wxsch" download>or maybe2 here</a>
-
-[download this](assets/Voltage_Follower.wxsch)
-
-[Download schematic](/assets/Voltage_Follower.wxsch)
 ## Tweak
 Tweak the schematic
 
